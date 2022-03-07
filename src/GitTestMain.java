@@ -13,7 +13,10 @@ public class GitTestMain {
 		System.out.println("master final");
 		System.out.println("github 접속");
 		System.out.println("github에서 수정");
-		 
+		
+		
+		System.out.println("hotfix remote push");
+		
 	}
 
 }
